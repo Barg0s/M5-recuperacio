@@ -1,0 +1,16 @@
+==== CONFIGS ====		
+{
+    "base_path": "c:\\Users\\David\\Desktop\\ENTONRSRECU\\recuperaciom5\\.vscode",
+    "out": "c:\\Users\\David\\Desktop\\ENTONRSRECU\\recuperaciom5\\.vscode\\javadoc",
+    "javadoc_executable": "C:\\Program Files\\Java\\jdk-21\\bin\\javadoc.exe",
+    "exclude": [],
+    "raw_params": ""
+}
+
+==== COMMAND ====
+"C:\Program Files\Java\jdk-21\bin\javadoc.exe" 
+	-sourcepath "c:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\.vscode" 
+	-d "c:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\.vscode\javadoc" 
+	
+
+

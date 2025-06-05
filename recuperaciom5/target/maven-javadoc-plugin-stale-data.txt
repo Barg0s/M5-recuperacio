@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/David/Desktop/ENTONRSRECU/recuperaciom5/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/David/Desktop/ENTONRSRECU/recuperaciom5/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'recuperaciom5 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'recuperaciom5 1.0-SNAPSHOT API'
+com.recuperacio
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\src\main\java = 1748266720841
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\allclasses-index.html = 1749151832049
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\allpackages-index.html = 1749151832051
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\element-list = 1749151831983
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\help-doc.html = 1749151832076
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\index-all.html = 1749151832071
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\index.html = 1749151832073
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\jquery-ui.overrides.css = 1749151832091
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\member-search-index.js = 1749151832056
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\module-search-index.js = 1749151832053
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\overview-tree.html = 1749151832036
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\package-search-index.js = 1749151832054
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\script.js = 1749151832079
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\search.js = 1749151832081
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\stylesheet.css = 1749151832078
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\tag-search-index.js = 1749151832057
+C:\Users\David\Desktop\ENTONRSRECU\recuperaciom5\target\reports\apidocs\type-search-index.js = 1749151832055

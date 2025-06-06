@@ -4,7 +4,7 @@
 
 #### CONFIGURACIÓ
 
-En cas de no tenir configurat el pom haurem d'afegir la dependencia del JUnit al pom del nostre projecte:
+En cas de no tenir configurat el pom haurem d'afegir la dependencia del JUnit al nostre projecte:
 
 ```xml
 <dependency>
